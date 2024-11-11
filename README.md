@@ -4,3 +4,6 @@
 
 ![Static Badge](https://img.shields.io/badge/py-python-blue?style=plastic&logo=python)
 
+![Static Badge](https://img.shields.io/badge/%20-%20jupyter%20-%20black?style=plastic&logo=jupyter)
+
+
