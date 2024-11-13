@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<img scr- 'https://github.com/IlonaWishec/IlonaWishec/blob/main/ac23582ee2d39adad7713d46a8093069.gif' alt- 'The Unlimited' width- '600'>
+<div align='center'>
+  <img src='https://github.com/IlonaWishec/IlonaWishec/blob/main/ac23582ee2d39adad7713d46a8093069.gif' width='600' height='300'/>
+</div>
 
 
 # my tools
